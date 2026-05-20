@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "如何用好Claude Code "
+title:  "如何用好Claude Code"
 date:   2026-03-18 21:52:31 +0800
 categories: harness
-math: true
 ---
 
 # 先看看你遇到过哪些坑 ?

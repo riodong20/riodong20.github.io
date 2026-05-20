@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "主流 Harness工作流对比分析"
+title:  "主流Harness工作流对比分析"
 date:   2026-04-15 21:52:31 +0800
 categories: harness
-math: true
 ---
 
 # 主流 Harness工作流对比分析
