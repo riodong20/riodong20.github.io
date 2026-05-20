@@ -3,6 +3,16 @@
 - type: github
   icon: "fab fa-github"
 
+# 抖音配置（TikTok/Douyin）
+- type: douyin
+  icon: "fab fa-tiktok"  # Font Awesome图标
+  url: "https://www.douyin.com/user/你的抖音号"  # 抖音主页链接
+
+# 微信公众号配置
+- type: wechat
+  icon: "fab fa-weixin"  # 微信图标
+  url: "https://mp.weixin.qq.com/s/ynnfOIvoRiLvc2om9xmxHg"  # 链接到微信公众号页面（推荐）
+
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
@@ -10,9 +20,9 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+# - type: rss
+#   icon: "fas fa-rss"
+#   noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
