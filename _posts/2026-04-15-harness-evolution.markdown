@@ -369,49 +369,49 @@ Anthropic 黑客松冠军项目，151K GitHub Stars（截至 2026.04）。与前
 
 ## 参考来源
 
-<a id="ref-openai"></a>**[1] OpenAI** — *Harness Engineering: Leveraging Codex in an Agent-First World* (2026.02.11)
-- 作者：Ryan Lopopolo, Member of Technical Staff
-- 原文：https://openai.com/index/harness-engineering-leveraging-codex-in-an-agent-first-world/
+[^1]: **OpenAI** — *Harness Engineering: Leveraging Codex in an Agent-First World* (2026.02.11)
+    - 作者：Ryan Lopopolo, Member of Technical Staff
+    - 原文：https://openai.com/index/harness-engineering-leveraging-codex-in-an-agent-first-world/
 
-<a id="ref-anthropic"></a>**[2] Anthropic** — *Effective Harnesses for Long-Running Agents* (2025.11.26)
-- 原文：https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents
+[^2]: **Anthropic** — *Effective Harnesses for Long-Running Agents* (2025.11.26)
+    - 原文：https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents
 
-<a id="ref-langchain"></a>**[3] LangChain** — *Improving Deep Agents with Harness Engineering* (2026.02.17)
-- 原文：https://blog.langchain.com/improving-deep-agents-with-harness-engineering/
+[^3]: **LangChain** — *Improving Deep Agents with Harness Engineering* (2026.02.17)
+    - 原文：https://blog.langchain.com/improving-deep-agents-with-harness-engineering/
 
-<a id="ref-stripe"></a>**[4] Stripe** — *Minions: Stripe's One-Shot, End-to-End Coding Agents* (2026.02.09)
-- Part 1：https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents
-- Part 2（Blueprint 架构详解）：https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2
+[^4]: **Stripe** — *Minions: Stripe's One-Shot, End-to-End Coding Agents* (2026.02.09)
+    - Part 1：https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents
+    - Part 2（Blueprint 架构详解）：https://stripe.dev/blog/minions-stripes-one-shot-end-to-end-coding-agents-part-2
 
-<a id="ref-anthropic2"></a>**[8] Anthropic** — *Harness Design for Long-Running Application Development* (2026.03.24)
-- 作者：Prithvi Rajasekaran（Anthropic Labs）
-- 原文：https://www.anthropic.com/engineering/harness-design-long-running-apps
+[^8]: **Anthropic** — *Harness Design for Long-Running Application Development* (2026.03.24)
+    - 作者：Prithvi Rajasekaran（Anthropic Labs）
+    - 原文：https://www.anthropic.com/engineering/harness-design-long-running-apps
 
-<a id="ref-openspec"></a>**[11] OpenSpec** — *Spec-Driven Development for AI Coding Assistants*
-- 原文（GitHub 仓库）：https://github.com/Fission-AI/OpenSpec
-- CHANGELOG：https://github.com/Fission-AI/OpenSpec/blob/main/CHANGELOG.md
+[^11]: **OpenSpec** — *Spec-Driven Development for AI Coding Assistants*
+    - 原文（GitHub 仓库）：https://github.com/Fission-AI/OpenSpec
+    - CHANGELOG：https://github.com/Fission-AI/OpenSpec/blob/main/CHANGELOG.md
 
-<a id="ref-superpowers"></a>**[12] Superpowers** — *Agentic Skills Framework & Software Development Methodology*
-- 原文（GitHub 仓库）：https://github.com/obra/superpowers
-- RELEASE-NOTES：https://github.com/obra/superpowers/blob/main/RELEASE-NOTES.md
+[^12]: **Superpowers** — *Agentic Skills Framework & Software Development Methodology*
+    - 原文（GitHub 仓库）：https://github.com/obra/superpowers
+    - RELEASE-NOTES：https://github.com/obra/superpowers/blob/main/RELEASE-NOTES.md
 
-<a id="ref-gstack"></a>**[13] gStack** — *Garry Tan's Claude Code Setup: 23 Opinionated Tools*
-- 原文（GitHub 仓库）：https://github.com/garrytan/gstack
-- CHANGELOG：https://github.com/garrytan/gstack/blob/main/CHANGELOG.md
+[^13]: **gStack** — *Garry Tan's Claude Code Setup: 23 Opinionated Tools*
+    - 原文（GitHub 仓库）：https://github.com/garrytan/gstack
+    - CHANGELOG：https://github.com/garrytan/gstack/blob/main/CHANGELOG.md
 
-<a id="ref-ce"></a>**[14] Compound Engineering** — *AI Skills That Make Each Unit of Engineering Work Easier*
-- 原文（GitHub 仓库）：https://github.com/EveryInc/compound-engineering-plugin
-- CHANGELOG：https://github.com/64labs/compound-engineering-plugin-fork/blob/main/plugins/compound-engineering/CHANGELOG.md
+[^14]: **Compound Engineering** — *AI Skills That Make Each Unit of Engineering Work Easier*
+    - 原文（GitHub 仓库）：https://github.com/EveryInc/compound-engineering-plugin
+    - CHANGELOG：https://github.com/64labs/compound-engineering-plugin-fork/blob/main/plugins/compound-engineering/CHANGELOG.md
 
-<a id="ref-sdd-trend"></a>**[15] 各家代码仓** 
-- 原文（GitHub 仓库）：
-  - OpenSpec：https://github.com/Fission-AI/OpenSpec
-  - Superpowers：https://github.com/obra/superpowers
-  - gStack：https://github.com/garrytan/gstack
-  - Compound Engineering：https://github.com/EveryInc/compound-engineering-plugin
-  - Everything Claude Code：https://github.com/affaan-m/everything-claude-code
+[^15]: **各家代码仓** 
+    - 原文（GitHub 仓库）：
+      - OpenSpec：https://github.com/Fission-AI/OpenSpec
+      - Superpowers：https://github.com/obra/superpowers
+      - gStack：https://github.com/garrytan/gstack
+      - Compound Engineering：https://github.com/EveryInc/compound-engineering-plugin
+      - Everything Claude Code：https://github.com/affaan-m/everything-claude-code
 
-<a id="ref-ecc"></a>**[16] Everything Claude Code (ECC)** — *Agent Harness Performance Optimization System* (2025-2026)
-- 原文（GitHub 仓库）：https://github.com/affaan-m/everything-claude-code
-- Anthropic 黑客松冠军项目，151K GitHub Stars
-- 架构分析：https://byteiota.com/everything-claude-code-production-agent-framework/
+[^16]: **Everything Claude Code (ECC)** — *Agent Harness Performance Optimization System* (2025-2026)
+    - 原文（GitHub 仓库）：https://github.com/affaan-m/everything-claude-code
+    - Anthropic 黑客松冠军项目，151K GitHub Stars
+    - 架构分析：https://byteiota.com/everything-claude-code-production-agent-framework/
