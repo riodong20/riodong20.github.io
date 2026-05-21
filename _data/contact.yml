@@ -6,7 +6,7 @@
 # 抖音配置（TikTok/Douyin）
 - type: douyin
   icon: "fab fa-tiktok"  # Font Awesome图标
-  url: "https://www.douyin.com/user/iamrio"  # 抖音主页链接
+  url: "https://www.douyin.com/user/self?from_tab_name=main&modal_id=7641627937715834166"  # 抖音主页链接
 
 # 微信公众号配置
 - type: wechat
